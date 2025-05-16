@@ -13,12 +13,12 @@
 <div align="center">
 <a href="https://github.com/jcgfdev">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jcgfdev&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats-kohl-mu.vercel.app/api?username=jcgfdev&show_icons=true&theme=blueberry"/>
 <br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcgfdev&layout=compact&langs_count=7&theme=blueberry"/>
+<img height="200em" src="https://github-readme-stats-kohl-mu.vercel.app/api/top-langs/?username=jcgfdev&layout=compact&langs_count=7&theme=blueberry"/>
+
 </a>
 </div>
-
 ---
 
 ### 🛠 Tecnologías que manejo
